@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DonieCode
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning css and Javascript
+- 👋 Hi, I’m @Doniecode
+- 👀 I’m interested in front-end dev
+- 🌱 currently learning Javascript 
 - 💞️ I’m looking to collaborate on any web dev work
 - 📫 How to reach me {Email: doniecode@gmail.com};
 
