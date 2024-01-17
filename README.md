@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @doniecode
+- 👋 Hi, I’m Donald
 - 👀 I’m interested in frontend dev;
 - 🌱 currently learning Javascript;
 - 💞️ I’m looking to collaborate on any web dev work;
